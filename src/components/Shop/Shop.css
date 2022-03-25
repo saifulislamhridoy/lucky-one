@@ -4,4 +4,8 @@
 }
 .product-container{
     border: 2px solid red;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    place-items: center;
+    grid-row-gap:45px
 }
