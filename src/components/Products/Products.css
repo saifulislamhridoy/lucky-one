@@ -1,0 +1,8 @@
+.product{
+height: 510px;
+width: 300px;
+background-color: aqua;
+}
+.product img{
+    width: 200px;
+}
