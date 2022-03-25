@@ -1,0 +1,65 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Yamaha R15",
+        "price": 420,
+        "img": "https://www.motorbeam.com/wp-content/uploads/Yamaha-R15-V3.0-Racing-Yellow-1200x900.jpg",
+        "quantity": 0
+      },
+      {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        "name": "Suzuki GSX-R150",
+        "price": 196,
+        "img": "https://www.mototechindia.com/wp-content/uploads/2021/01/suzuki-gsx-r150.jpg",
+        "quantity": 0
+      },
+      {
+        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+        "name": "KTM DUKE-390",
+        "price": 245,
+        "img": "https://images.carandbike.com/bike-images/large/ktm/390-duke/ktm-390-duke.jpg?v=23",
+        "quantity": 0
+      },
+      {
+        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+        "name": "Yamaha Fz V3",
+        "price": 229,
+        "img": "https://images.carandbike.com/bike-images/large/yamaha/fz-v30-fi/yamaha-fz-v30-fi.jpg?v=9",        
+        "quantity": 0
+      },
+      {
+        "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+        "name": "Suzuki Gixxer-155",
+        "price": 287,
+        "img": "https://www.bikevaly.com/assets/img/Suzuki-Gixxer-155-Fi-ABS.webp",
+        "quantity": 0
+      },
+      {
+        "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+        "name": "Bajaj Pulsar",
+        "price": 138,
+        "img": "https://cdn.autoportal.com/bp-v3/img/models/88/9/bajaj-pulsar-1464785923.jpg",
+        "quantity": 0
+      },
+      {
+        "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+        "name": "GPX Demon",
+        "price": 226,
+        "img": "https://ic1.maxabout.us/autos/tw_india//G/2020/7/gpx-demon-gr200r-front-3-quarter.jpg",
+        "quantity": 0
+      },
+      {
+        "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+        "name": "Honda CBR-150",
+        "price": 319,
+        "img": "https://cdn.motor1.com/images/mgl/VPlBl/s3/2022-honda-cbr150r---black-hi-viz-yellow-non-abs.webp",
+        "quantity": 0
+      },
+      {
+        "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+        "name": "Kawasaki Z-900",
+        "price": 260,
+        "img": "https://ic1.maxabout.us/autos/tw_india//2/2021/2/2021-kawasaki-z900.jpg",
+        "quantity": 0
+      }
+]
