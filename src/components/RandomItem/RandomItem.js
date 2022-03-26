@@ -6,7 +6,7 @@ const RandomItem = ({randomItem}) => {
     return (
         <div className='item'>
             <img src={img} alt="" />
-          <h2>{name}</h2>  
+          <h5>{name}</h5>  
         </div>
     );
 };
