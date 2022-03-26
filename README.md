@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# lucky-one
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was make with react [My Live Site](https://sensational-nougat-2990a0.netlify.app/).
 
 ## Available Scripts
 
